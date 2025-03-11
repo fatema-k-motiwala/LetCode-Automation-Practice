@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="letcode.G_Window"/>
+      <class name="letcode.H_Elements"/>
+      <class name="letcode.F_Radio_Checkbox"/>
+      <class name="letcode.A_Input"/>
+      <class name="letcode.B_Buttons"/>
+      <class name="letcode.E_Frame"/>
+      <class name="letcode.J_DrapAndDrop"/>
+      <class name="letcode.I_Drag"/>
+      <class name="letcode.C_Select"/>
+      <class name="letcode.D_Alert"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
