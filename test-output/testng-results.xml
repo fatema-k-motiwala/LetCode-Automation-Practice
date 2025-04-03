@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-03-13T13:58:07 GST" name="Default suite" finished-at="2025-03-13T13:58:18 GST" duration-ms="10930">
+  <suite started-at="2025-04-03T18:21:17 GST" name="Default suite" finished-at="2025-04-03T18:21:29 GST" duration-ms="11969">
     <groups>
     </groups>
-    <test started-at="2025-03-13T13:58:07 GST" name="Default test" finished-at="2025-03-13T13:58:18 GST" duration-ms="10930">
-      <class name="letcode.N_Waits">
-        <test-method signature="waitForAlert()[pri:0, instance:letcode.N_Waits@4550bb58]" started-at="2025-03-13T13:58:07 GST" name="waitForAlert" finished-at="2025-03-13T13:58:18 GST" duration-ms="10890" status="PASS">
+    <test started-at="2025-04-03T18:21:17 GST" name="Default test" finished-at="2025-04-03T18:21:29 GST" duration-ms="11969">
+      <class name="letcode.R_Forms">
+        <test-method signature="selectBirthday()[pri:0, instance:letcode.R_Forms@6adbc9d]" started-at="2025-04-03T18:21:17 GST" name="selectBirthday" finished-at="2025-04-03T18:21:29 GST" duration-ms="11925" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- waitForAlert -->
-      </class> <!-- letcode.N_Waits -->
+        </test-method> <!-- selectBirthday -->
+      </class> <!-- letcode.R_Forms -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

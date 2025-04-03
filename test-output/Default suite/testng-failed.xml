@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="letcode.M_Slider">
+      <class name="letcode.R_Forms">
         <methods>
-          <include name="slider"/>
+          <include name="selectBirthday"/>
         </methods>
-      </class> <!-- letcode.M_Slider -->
+      </class> <!-- letcode.R_Forms -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
