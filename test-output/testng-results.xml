@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-03T18:21:17 GST" name="Default suite" finished-at="2025-04-03T18:21:29 GST" duration-ms="11969">
+  <suite started-at="2025-04-04T14:56:12 GST" name="Default suite" finished-at="2025-04-04T14:56:24 GST" duration-ms="11645">
     <groups>
     </groups>
-    <test started-at="2025-04-03T18:21:17 GST" name="Default test" finished-at="2025-04-03T18:21:29 GST" duration-ms="11969">
-      <class name="letcode.R_Forms">
-        <test-method signature="selectBirthday()[pri:0, instance:letcode.R_Forms@6adbc9d]" started-at="2025-04-03T18:21:17 GST" name="selectBirthday" finished-at="2025-04-03T18:21:29 GST" duration-ms="11925" status="PASS">
+    <test started-at="2025-04-04T14:56:12 GST" name="Default test" finished-at="2025-04-04T14:56:24 GST" duration-ms="11645">
+      <class name="letcode.T_ShadowDom">
+        <test-method signature="selectBirthday()[pri:0, instance:letcode.T_ShadowDom@6adbc9d]" started-at="2025-04-04T14:56:12 GST" name="selectBirthday" finished-at="2025-04-04T14:56:24 GST" duration-ms="11616" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectBirthday -->
-      </class> <!-- letcode.R_Forms -->
+      </class> <!-- letcode.T_ShadowDom -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

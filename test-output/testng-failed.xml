@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="letcode.R_Forms">
+      <class name="letcode.T_ShadowDom">
         <methods>
           <include name="selectBirthday"/>
         </methods>
-      </class> <!-- letcode.R_Forms -->
+      </class> <!-- letcode.T_ShadowDom -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
